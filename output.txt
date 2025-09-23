@@ -1,0 +1,23 @@
+Line 12:
+<foo, function>
+<sortint, function>
+<swap, function>
+<main, function>
+<test, function>
+<a, int>
+<b, int>
+<c, int>
+<m, int>
+Line 17:
+<foo, function>
+<sortint, function>
+<swap, function>
+<main, function>
+<test, function>
+<a, int>
+<b, int>
+<c, int>
+<m, int>
+<d, int>
+Line 24: x is not an identified symbol
+Line 25: d is already declared

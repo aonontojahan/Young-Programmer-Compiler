@@ -1,0 +1,31 @@
+I foo function
+I sortint function
+I swap function
+I main function
+I test function
+I a int
+I b int
+I c int
+I m int
+
+
+P
+I d int
+L swap
+L a
+L d
+P
+
+L a
+L d
+L c
+L b
+L foo
+L x
+I d float
+Q
+
+Here Q is used for break.
+So after Q nothing will taken by compailar
+I swap function
+I am function
