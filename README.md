@@ -4,7 +4,7 @@
 This is a simple compiler project designed for young programmers. It includes lexical analysis, parsing, symbol table handling, and basic error detection.
 
 ## Features
-- Lexical analysis.
+- Lexical analysis..
 - Syntax analysis
 - Symbol table management
 - Sample input/output demonstration
